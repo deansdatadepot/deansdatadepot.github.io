@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to the Dean's Data Depot, a place to get statistical tidbits about the sports world, or a place to find the predictive model that helps you win the office bracket pool!
