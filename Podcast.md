@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Podcaast
+title: Podcast
 ---
 # Check out all episodes of the Dean's Data Depot on Spotify and Apple Podcasts!
 ## NFL Holiday Gifts
