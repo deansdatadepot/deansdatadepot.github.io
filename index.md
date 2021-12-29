@@ -1,5 +1,7 @@
 Welcome to the Dean's Data Depot, a place to get statistical tidbits about the sports world, or a place to find the predictive model that helps you win the office bracket pool!
 
+<a class="twitter-timeline" href="https://twitter.com/DeanDataDepot?ref_src=twsrc%5Etfw">Tweets by DeanDataDepot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p> Check out the most recent episode on Spotify!</p>
 <iframe src="https://open.spotify.com/embed/show/0GSs57Mieoy5zl7rAYh7vF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
