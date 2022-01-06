@@ -7,4 +7,3 @@ Welcome to the Dean's Data Depot, a place to get statistical tidbits about the s
 
 Or on Youtube!
 <iframe width="560"  height="315" src="https://www.youtube.com/embed/videoseries?list=PLxHGX3lik_9Oml4lRXdj32JTkvddEakmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900|Ubuntu:400,500,700" rel="stylesheet">

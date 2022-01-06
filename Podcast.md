@@ -2,7 +2,6 @@
 layout: page
 title: Podcast
 ---
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900|Ubuntu:400,500,700" rel="stylesheet">
 
 # Check out all episodes of the Dean's Data Depot on Spotify and Apple Podcasts!
 ## NFL Holiday Gifts
