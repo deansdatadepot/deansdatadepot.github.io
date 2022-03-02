@@ -1,5 +1,5 @@
 ## 2022 SEC Men's Basketball Tournment
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
