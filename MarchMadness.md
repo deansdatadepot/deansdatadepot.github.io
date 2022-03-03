@@ -11,3 +11,4 @@ Get your conference championship week content right here! See how Geoffrey's mod
 - [Big 12](https://deansdatadepot.github.io/2022/03/02/Big-12-Tournament-2022.html)| Projected winner: Baylor
 - [Big East](https://deansdatadepot.github.io/2022/03/02/Big-East-Tournament-2022.html)| Projected winner: St. John's
 - [Mountain West](https://deansdatadepot.github.io/2022/03/02/MWC-Tournament-2022.html)| Projected winner: Colorado St.
+- [American](https://deansdatadepot.github.io/2022/03/02/AAC-Tournament-2022.html)| Projected winner: Houston
