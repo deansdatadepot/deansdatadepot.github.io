@@ -5,8 +5,8 @@ title: March Madness
 ### Conference tournaments
 Get your conference championship week content right here! See how Geoffrey's model would fill out the conference tournament brackets below. ALL CAPS are a change from previous update, (in parenthesis) was previous projected winner.
 
-Last Update: Sunday, March 6
-- [SEC](https://deansdatadepot.github.io/2022/03/02/SEC-Tournament-2022.html)| Projected winner: KENTUCKY (Auburn)
+Last Update: Sunday, March 7
+- [SEC](https://deansdatadepot.github.io/2022/03/02/SEC-Tournament-2022.html)| Projected winner: Auburn (KENTUCKY)
 - [ACC](https://deansdatadepot.github.io/2022/03/02/ACC-Tournament-2022.html)| Projected winner: DUKE (Wake Forest)
 - [Big 10](https://deansdatadepot.github.io/2022/03/02/BIG-10-Tournament-2022.html)| Projected winner: Iowa
 - [PAC 12](https://deansdatadepot.github.io/2022/03/02/PAC-12-Tournament-2022.html)| Projected winner: USC
