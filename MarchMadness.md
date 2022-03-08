@@ -10,7 +10,7 @@ Last Update: Tuesday, March 8
 - [ACC](https://deansdatadepot.github.io/2022/03/02/ACC-Tournament-2022.html)| Projected winner: Duke
 - [Big 10](https://deansdatadepot.github.io/2022/03/02/BIG-10-Tournament-2022.html)| Projected winner: MINNESOTA (Iowa)
 - [PAC 12](https://deansdatadepot.github.io/2022/03/02/PAC-12-Tournament-2022.html)| Projected winner: USC
-- [Big 12](https://deansdatadepot.github.io/2022/03/02/Big-12-Tournament-2022.html)| Projected winner: Baylor
+- [Big 12](https://deansdatadepot.github.io/2022/03/02/Big-12-Tournament-2022.html)| Projected winner: KANSAS (Baylor)
 - [Big East](https://deansdatadepot.github.io/2022/03/02/Big-East-Tournament-2022.html)| Projected winner: DePaul
 - [Mountain West](https://deansdatadepot.github.io/2022/03/02/MWC-Tournament-2022.html)| Projected winner: Colorado St. 
 - [American](https://deansdatadepot.github.io/2022/03/02/AAC-Tournament-2022.html)| Projected winner: Houston
