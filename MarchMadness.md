@@ -12,5 +12,5 @@ Last Update: Tuesday, March 8
 - [PAC 12](https://deansdatadepot.github.io/2022/03/02/PAC-12-Tournament-2022.html)| Projected winner: USC
 - [Big 12](https://deansdatadepot.github.io/2022/03/02/Big-12-Tournament-2022.html)| Projected winner: Baylor
 - [Big East](https://deansdatadepot.github.io/2022/03/02/Big-East-Tournament-2022.html)| Projected winner: DePaul
-- [Mountain West](https://deansdatadepot.github.io/2022/03/02/MWC-Tournament-2022.html)| Projected winner: COLORADO ST. (San Jose State)
+- [Mountain West](https://deansdatadepot.github.io/2022/03/02/MWC-Tournament-2022.html)| Projected winner: Colorado St. 
 - [American](https://deansdatadepot.github.io/2022/03/02/AAC-Tournament-2022.html)| Projected winner: Houston
